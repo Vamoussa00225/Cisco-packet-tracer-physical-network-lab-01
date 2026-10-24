@@ -12,11 +12,11 @@
 
 ### Environnement physique
 
-<img src="Screenshots/physical-environment.png" alt="Environnement physique du réseau" width="100%">
+<img src="Screenshots/physical-environment.jpg" alt="Environnement physique du réseau" width="100%">
 
 ### Équipements réseau
 
-<img src="Screenshots/rack-and-patch-panel.png" alt="Rack et panneau de brassage" width="100%">
+<img src="Screenshots/rack-and-patch-panel.jpg" alt="Rack et panneau de brassage" width="100%">
 
 ---
 
