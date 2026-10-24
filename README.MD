@@ -8,6 +8,18 @@
 
 ---
 
+## 🖼️ Captures du lab
+
+### Environnement physique
+
+<img src="Screenshots/physical-environment.png" alt="Environnement physique du réseau" width="100%">
+
+### Équipements réseau
+
+<img src="Screenshots/rack-and-patch-panel.png" alt="Rack et panneau de brassage" width="100%">
+
+---
+
 ## 📌 Présentation
 
 Ce projet s'inscrit dans ma progression pratique en **IT Support et réseaux informatiques**.
@@ -32,14 +44,14 @@ Ce lab m'a permis de travailler notamment sur :
 
 Les principaux objectifs étaient de :
 
-- Comprendre le lien entre l'infrastructure physique et le réseau logique.
-- Identifier et organiser les équipements réseau.
-- Réaliser les connexions entre les différents équipements.
-- Utiliser les connexions Ethernet appropriées.
-- Configurer les interfaces nécessaires.
-- Permettre la communication entre les équipements.
-- Vérifier la connectivité du réseau.
-- Mettre en pratique une méthodologie de dépannage réseau.
+- Comprendre le lien entre l'infrastructure physique et le réseau logique
+- Identifier et organiser les équipements réseau
+- Réaliser les connexions entre les différents équipements
+- Utiliser les connexions Ethernet appropriées
+- Configurer les interfaces nécessaires
+- Permettre la communication entre les équipements
+- Vérifier la connectivité du réseau
+- Mettre en pratique une méthodologie de dépannage réseau
 
 ---
 
@@ -113,7 +125,7 @@ Validation
 
 Une fois l'infrastructure mise en place, la connectivité a été vérifiée entre les différents équipements.
 
-La démarche de dépannage suivie repose sur une approche progressive :
+La démarche de dépannage suivie repose sur une approche progressive.
 
 ### 1. Couche physique
 
@@ -142,14 +154,6 @@ La démarche de dépannage suivie repose sur une approche progressive :
 
 ---
 
-## 🖼️ Environnement physique
-
-![Environnement réseau physique](screenshots/physical-environment.png)
-
-> Cette capture présente l'environnement physique réalisé dans Cisco Packet Tracer.
-
----
-
 ## 📁 Structure du projet
 
 ```text
@@ -161,7 +165,8 @@ cisco-packet-tracer-physical-network-lab/
 │   └── physical-network-infrastructure.pkt
 │
 └── screenshots/
-    └── physical-environment.png
+    ├── physical-environment.png
+    └── rack-and-patch-panel.png
 ```
 
 ---
@@ -238,3 +243,11 @@ IT Support · Réseaux · Administration systèmes · Cybersécurité
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamoussa%20KANATE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamoussa-kanate-801641187/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-vamoussa00225-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamoussa00225)
+
+---
+
+<p align="center">
+
+**Learn · Build · Troubleshoot · Document · Improve**
+
+</p>
